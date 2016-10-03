@@ -1,3 +1,11 @@
 
+<<<<<<< HEAD
 hELP ME AEFEHFEWFEWFA
 aefefa
+=======
+hey dude
+what’s up manuel
+lol i’m right next to you
+hey bro  
+this is an edit  for task 3
+>>>>>>> e0a249cb71157bf271f07dd3b2efdc57c68b9f4b
