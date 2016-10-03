@@ -1,4 +1,6 @@
+ERASED IT ALL
 
+<<<<<<< HEAD
 hey dude
 what’s up manuel
 lol i’m right next to you
@@ -11,3 +13,5 @@ this is an edit  for task 3
 =====
 fight me
 =====
+=======
+>>>>>>> f47e632456f6ff408f7f7fb324e7758eb93edd2b
